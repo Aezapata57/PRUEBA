@@ -1,0 +1,8 @@
+{
+    "name": "MOVE-IT",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "sala4",
+    "contributors": [],
+    "dependencies": {}
+}
